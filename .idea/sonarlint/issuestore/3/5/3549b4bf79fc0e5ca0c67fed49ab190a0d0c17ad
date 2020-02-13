@@ -1,0 +1,20 @@
+
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(ª¹Ş#
+Xsquid:UselessImportCheck"/Remove this unused import 'org.json.JSONArray'.(¬¸Ê’üÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheck"aRemove the declaration of thrown exception 'org.json.JSONException' which is a runtime exception.(ÕŠ’Üüÿÿÿÿ8œ¦¥ƒ.
+`squid:UselessImportCheck"7Remove this unused import 'java.util.stream.IntStream'.(ÙÉ½Ÿùÿÿÿÿ
+T
+squid:S1060"9Replace this use of System.out or System.err by a logger.(¼È”Ñøÿÿÿÿ
+Rsquid:UselessImportCheck")Remove this unused import 'java.net.URL'.(ñìÁ„üÿÿÿÿ
+[squid:UselessImportCheck"7Remove this unused import 'java.io.OutputStreamWriter'.(Ÿ“¸
+Usquid:S1135"2Complete the task associated to this TODO comment.(”ÕŒÁÿÿÿÿÿ8šÔ¥ƒ.
+Tsquid:UselessImportCheck	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(†ì„³üÿÿÿÿ
+O
+squid:S106-"9Replace this use of System.out or System.err by a logger.(ÁÈ– 
+Ysquid:UselessImportCheck"0Remove this unused import 'org.json.JSONObject'.(œÖ´üşÿÿÿÿ
+Tsquid:UselessImportCheck"0Remove this unused import 'java.net.URLEncoder'.(ê¢ºÆ
+[squid:UselessImportCheck"7Remove this unused import 'java.net.HttpURLConnection'.(¬¬˜­

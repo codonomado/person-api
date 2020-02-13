@@ -1,0 +1,18 @@
+
+ksquid:UselessImportCheck"BRemove this unused import 'uk.ac.emblebi.personcli.PersonRequest'.(×ı¶¶ùÿÿÿÿ
+tsquid:UselessImportCheck"PRemove this unused import 'uk.ac.emblebi.personcli.requests.PersonIndexRequest'.(Ïâğş
+Qsquid:S1118":Add a private constructor to hide the implicit public one.(µœ¶
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(†İ»ùÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ãçšä
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(–‹èæşÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(°â³Ñ
+N
+squid:S106"9Replace this use of System.out or System.err by a logger.(Ëğäd
+T
+squid:S106""9Replace this use of System.out or System.err by a logger.(Öãı™ùÿÿÿÿ
+T
+squid:S106#"9Replace this use of System.out or System.err by a logger.(Ü‚¤£ùÿÿÿÿ

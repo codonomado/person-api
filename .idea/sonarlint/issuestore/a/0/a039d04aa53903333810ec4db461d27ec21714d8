@@ -1,0 +1,13 @@
+
+Vsquid:S1118":Add a private constructor to hide the implicit public one.(îêï¥úÿÿÿÿ
+Jsquid:S1172".Remove this unused method parameter "scanner".(¹óƒ¸þÿÿÿÿ
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(ÿž”Ë
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(˜˜óýýÿÿÿÿ
+T
+squid:S106"9Replace this use of System.out or System.err by a logger.(³¨Ë£ûÿÿÿÿ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(âžìƒ
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(›ž°Ë
+bsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(†Ø°Ð
+gsquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(¨ÛÆ½üÿÿÿÿ

@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/cli-app/src/uk/ac/emblebi/personcli/PersonApiClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/person-api/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/Dockerfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/docker-compose.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/PersonApiApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/advicers/exceptions/ApiError.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/advicers/exceptions/AppException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/advicers/exceptions/ResourceNotFoundException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/advicers/exceptions/RestExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/authentication/models/User.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/authentication/models/UserIdentityAvailability.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/authentication/models/UserResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/common/advicers/ApiError.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/common/advicers/RestExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/common/config/AuditingConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/common/config/SwaggerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/common/exceptions/ApiError.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/common/exceptions/AppException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/common/exceptions/ResourceNotFoundException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/common/exceptions/RestExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/config/SecurityConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/config/SwaggerConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/domain/PersonController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/domain/PersonResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/domain/common/advicers/RestExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/domain/common/config/AuditingConfig.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/domain/person/DateAudit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/domain/person/models/DateAudit.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/domain/person/models/Person.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/domain/person/repositories/PersonRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/domain/person/repositories/PersonService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/domain/person/repositories/PersonServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/domain/person/requests/PersonRequest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/domain/person/responses/PersonResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/domain/person/services/PersonService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/domain/person/services/PersonServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/domain/web/AuthController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/domain/web/PersonController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/exceptions/ApiError.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/exceptions/AppException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/exceptions/ResourceNotFoundException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/exceptions/ResponseEntityExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/exceptions/RestExceptionHandler.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/person/repositories/PersonRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/person/repositories/PersonService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/person/repositories/PersonServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/person/services/PersonService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/person/services/PersonServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/web/AuthController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/java/uk/ac/emblebi/personapi/web/PersonController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../person-api/src/main/resources/data.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
